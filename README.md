@@ -13,8 +13,8 @@
 
 - 💻 &nbsp; Python | C++ 
 - 🎛 &nbsp; Linux | Bash |  Docker
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; MySQL | PostGreSQL
+- 🌐 &nbsp; Django | Flask | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; SQlite | MySQL | PostgreSQL
 - 🔧 &nbsp; PyCharm | QtCreator | Git | Markdown
 
 
