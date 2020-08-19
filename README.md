@@ -31,7 +31,7 @@
 <br>
 
 ### Favorite playlist to concentration 🎧
-[<img src="mspectrum.gif" alt="Cleiton Souza Spotify Playing" width="350" />](https://open.spotify.com/playlist/1gkg0twwZXhC0gyLddOxTK?si=LASqUVMnTMOIFrXlwRBaGA)
+[<img src="https://media.giphy.com/media/oTcESYsgkjU1W/giphy.gif" alt="Cleiton Souza Spotify Playing" width="350" />](https://open.spotify.com/playlist/1gkg0twwZXhC0gyLddOxTK?si=LASqUVMnTMOIFrXlwRBaGA)
 
 <a href="https://open.spotify.com/playlist/1gkg0twwZXhC0gyLddOxTK?si=LASqUVMnTMOIFrXlwRBaGA"><img alt="twitter" src="https://img.shields.io/badge/Spotify-playlist to concentration-blue?style=flat-square&logo=spotify"></a>
 </p>
