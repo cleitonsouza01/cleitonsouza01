@@ -15,7 +15,7 @@
 - 🎛 &nbsp; Linux | Bash |  Docker
 - 🌐 &nbsp; Django | Flask | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; SQlite | MySQL | PostgreSQL
-- 🔧 &nbsp; PyCharm | QtCreator | Git | Markdown
+- 🔧 &nbsp; IntelliJ WebStorm & PyCharm | QtCreator | Git | Markdown
 
 
 <br/>
