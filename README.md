@@ -4,16 +4,16 @@
 #### 👨🏻‍💻 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying algorithms.
+- 🎓 &nbsp; Studying JavaScript / React / Nextjs.
 - 💼 &nbsp; Working as a freelancer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <br>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ 
+- 💻 &nbsp; Python | JavaScript 
 - 🎛 &nbsp; Linux | Bash |  Docker
-- 🌐 &nbsp; Django | Flask | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Material Design UI 
 - 🛢 &nbsp; SQlite | MySQL | PostgreSQL
 - 🔧 &nbsp; IntelliJ WebStorm & PyCharm | QtCreator | Git | Markdown
 
